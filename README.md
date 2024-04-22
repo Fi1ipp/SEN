@@ -1,0 +1,2 @@
+# SEN
+Seminár z Informatiky
